@@ -1,9 +1,15 @@
+//
+// Created by maxsd on 20.12.2022.
+//
 
 #include "../Headers/Cell.h"
 
-Cell::CellState Cell::getCellState() const {
-    return cellState;
+Cell::Cell(char type) : type(type) {}
+
+Cell::~Cell() {
+
 }
 
-
-Cell::Cell(Cell::CellState cellState) : cellState(cellState) {}
+char Cell::getType() const {
+    return type;
+}

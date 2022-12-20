@@ -1,9 +1,9 @@
 # ninja log v5
-7	299	6927160131550016	CMakeFiles/Minesweepper.dir/main.cpp.obj	4327c774c911c766
 13	907	6927546720912218	CMakeFiles/Minesweepper.dir/Cpp/Moveable.cpp.obj	94081858a607b1
 11	178	6927117877676066	CMakeFiles/Minesweepper.dir/Keyboard.cpp.obj	493a5ea53807570c
-0	121	6931432906118896	build.ninja	2aa8d3b4d847aa6d
-354	723	6928079332436535	Minesweepper.exe	c88daedc138ce64
+7	299	6927160131550016	CMakeFiles/Minesweepper.dir/main.cpp.obj	4327c774c911c766
+1409	1518	6932733254940245	Minesweepper.exe	73fbf57e81d3728b
+0	121	6932754050085369	build.ninja	2aa8d3b4d847aa6d
 8	55	6927144529031946	CMakeFiles/Minesweepper.dir/Cursor.cpp.obj	52b873df75184cd2
 2	1245	6927538844785371	CMakeFiles/Minesweepper.dir/Map.cpp.obj	59c6560a27764e06
 11	885	6927144537319462	CMakeFiles/Minesweepper.dir/Moveable.cpp.obj	57888f494dd82e16
@@ -11,6 +11,12 @@
 3	59	6927979380450061	CMakeFiles/Minesweepper.dir/Cpp/Cursor.cpp.obj	d4ee11b7e821a6b
 8	88	6927546712729743	CMakeFiles/Minesweepper.dir/Cpp/Keyboard.cpp.obj	8f438918e1e916aa
 6	267	6927560015977297	CMakeFiles/Minesweepper.dir/Cpp/main.cpp.obj	16b2a208bf3529a7
-2	1555	6927972549502937	CMakeFiles/Minesweepper.dir/Cpp/Game.cpp.obj	8b06465492b88399
-5	1819	6927972552145336	CMakeFiles/Minesweepper.dir/Cpp/Map.cpp.obj	cbfe85b3f7338a9b
+7	1260	6932733252407947	CMakeFiles/Minesweepper.dir/Cpp/Game.cpp.obj	8b06465492b88399
+3	1409	6932733253889295	CMakeFiles/Minesweepper.dir/Cpp/Map.cpp.obj	cbfe85b3f7338a9b
 3	354	6928079328778158	CMakeFiles/Minesweepper.dir/Cpp/Cell.cpp.obj	468b1c10951d933a
+0	148	6932754050085369	build.ninja	2aa8d3b4d847aa6d
+7	51	6932754051046251	CMakeFiles/Minesweepper.dir/Cpp/Digit.cpp.obj	c2bf0d9abe85f158
+5	54	6932754051066255	CMakeFiles/Minesweepper.dir/Cpp/Mine.cpp.obj	2111ab7ad7e8550
+9	56	6932754051086274	CMakeFiles/Minesweepper.dir/Cpp/Cell.cpp.obj	468b1c10951d933a
+3	1310	6932754063617672	CMakeFiles/Minesweepper.dir/Cpp/Map.cpp.obj	cbfe85b3f7338a9b
+1311	1430	6932754064798751	Minesweepper.exe	d6e0a9a658a71394

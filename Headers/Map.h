@@ -6,7 +6,6 @@
 #include <vector>
 #include <conio.h>
 #include <stack>
-#include "Cell.h"
 
 using namespace std;
 
@@ -19,7 +18,7 @@ private:
     int size;
     int mines;
     const int BORDER = 100;
-    vector<vector<Cell>> map;
+    vector<vector<int>> map;
     vector<vector<int>> mask;
 
 public:
@@ -44,7 +43,7 @@ public:
 
     void initMap();
 
-    Cell openCell(int x, int y);
+    int openCell(int x, int y);
 
     int revealEmptyCell(int px, int py);
 

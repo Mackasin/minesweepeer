@@ -1,30 +1,23 @@
+//
+// Created by maxsd on 20.12.2022.
+//
 
 #ifndef MINESWEEPPER_CELL_H
 #define MINESWEEPPER_CELL_H
 
 
-#include <ostream>
-#include "Mine.h"
-
-class Cell{
-
-public:
+class Cell {
+protected:
     enum CellState{
-        OPEN,
-        CLOSED,
-        FLAG
+        OPEN,CLOSED,FLAG
     };
-
-
-private:
-    CellState cellState=CLOSED;
-
+   char type;
 public:
-    CellState getState();
+    Cell(char type);
 
-    Cell(CellState cellState);
+    char getType() const;
 
-    CellState getCellState() const;
+    virtual ~Cell();
 };
 
 

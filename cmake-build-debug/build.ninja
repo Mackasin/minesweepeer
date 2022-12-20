@@ -91,14 +91,14 @@ build CMakeFiles/Minesweepper.dir/Cpp/Cell.cpp.obj: CXX_COMPILER__Minesweepper_D
   OBJECT_DIR = CMakeFiles\Minesweepper.dir
   OBJECT_FILE_DIR = CMakeFiles\Minesweepper.dir\Cpp
 
-build CMakeFiles/Minesweepper.dir/Cpp/Mine.cpp.obj: CXX_COMPILER__Minesweepper_Debug C$:/Users/maxsd/Desktop/Minesweepper/Cpp/Mine.cpp || cmake_object_order_depends_target_Minesweepper
-  DEP_FILE = CMakeFiles\Minesweepper.dir\Cpp\Mine.cpp.obj.d
+build CMakeFiles/Minesweepper.dir/Cpp/Digit.cpp.obj: CXX_COMPILER__Minesweepper_Debug C$:/Users/maxsd/Desktop/Minesweepper/Cpp/Digit.cpp || cmake_object_order_depends_target_Minesweepper
+  DEP_FILE = CMakeFiles\Minesweepper.dir\Cpp\Digit.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\Minesweepper.dir
   OBJECT_FILE_DIR = CMakeFiles\Minesweepper.dir\Cpp
 
-build CMakeFiles/Minesweepper.dir/Cpp/Digit.cpp.obj: CXX_COMPILER__Minesweepper_Debug C$:/Users/maxsd/Desktop/Minesweepper/Cpp/Digit.cpp || cmake_object_order_depends_target_Minesweepper
-  DEP_FILE = CMakeFiles\Minesweepper.dir\Cpp\Digit.cpp.obj.d
+build CMakeFiles/Minesweepper.dir/Cpp/Mine.cpp.obj: CXX_COMPILER__Minesweepper_Debug C$:/Users/maxsd/Desktop/Minesweepper/Cpp/Mine.cpp || cmake_object_order_depends_target_Minesweepper
+  DEP_FILE = CMakeFiles\Minesweepper.dir\Cpp\Mine.cpp.obj.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles\Minesweepper.dir
   OBJECT_FILE_DIR = CMakeFiles\Minesweepper.dir\Cpp
@@ -111,7 +111,7 @@ build CMakeFiles/Minesweepper.dir/Cpp/Digit.cpp.obj: CXX_COMPILER__Minesweepper_
 #############################################
 # Link the executable Minesweepper.exe
 
-build Minesweepper.exe: CXX_EXECUTABLE_LINKER__Minesweepper_Debug CMakeFiles/Minesweepper.dir/Cpp/main.cpp.obj CMakeFiles/Minesweepper.dir/Cpp/Map.cpp.obj CMakeFiles/Minesweepper.dir/Cpp/Game.cpp.obj CMakeFiles/Minesweepper.dir/Cpp/Keyboard.cpp.obj CMakeFiles/Minesweepper.dir/Cpp/Cursor.cpp.obj CMakeFiles/Minesweepper.dir/Cpp/Moveable.cpp.obj CMakeFiles/Minesweepper.dir/Cpp/Cell.cpp.obj CMakeFiles/Minesweepper.dir/Cpp/Mine.cpp.obj CMakeFiles/Minesweepper.dir/Cpp/Digit.cpp.obj
+build Minesweepper.exe: CXX_EXECUTABLE_LINKER__Minesweepper_Debug CMakeFiles/Minesweepper.dir/Cpp/main.cpp.obj CMakeFiles/Minesweepper.dir/Cpp/Map.cpp.obj CMakeFiles/Minesweepper.dir/Cpp/Game.cpp.obj CMakeFiles/Minesweepper.dir/Cpp/Keyboard.cpp.obj CMakeFiles/Minesweepper.dir/Cpp/Cursor.cpp.obj CMakeFiles/Minesweepper.dir/Cpp/Moveable.cpp.obj CMakeFiles/Minesweepper.dir/Cpp/Cell.cpp.obj CMakeFiles/Minesweepper.dir/Cpp/Digit.cpp.obj CMakeFiles/Minesweepper.dir/Cpp/Mine.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Minesweepper.dir
