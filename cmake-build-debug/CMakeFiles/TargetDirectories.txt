@@ -1,3 +1,0 @@
-C:/Users/maxsd/Desktop/Minesweepper/cmake-build-debug/CMakeFiles/Minesweepper.dir
-C:/Users/maxsd/Desktop/Minesweepper/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/maxsd/Desktop/Minesweepper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
